@@ -10,7 +10,7 @@ Next, add ServiceProvider to *providers* in *config/app.php*
         /*
          * Package Service Providers...
          */
-        Openforce\DebugCOntainer\DebugContainerServiceProvider::class,
+        Openforce\DebugContainer\DebugContainerServiceProvider::class,
         /*
          * Application Service Providers...
          */
