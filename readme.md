@@ -1,7 +1,7 @@
 ## Installation
 Please install by using the composer command.
 
-    composer require openforce/debug-container
+    composer require openforce/debug-container:dev-master
 
 Next, add ServiceProvider to *providers* in *config/app.php*
 
