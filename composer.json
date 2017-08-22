@@ -1,10 +1,10 @@
 {
 	"autoload" : {
 		"psr-4" : {
-			"Laravel\\DebugContainer\\" : "src"
+			"Openforce\\DebugContainer\\" : "src"
 		}
 	},
-	"name" : "laravel/debug-container/debug-container",
+	"name" : "openforce-jp/debug-container",
 	"type" : "laravel-library",
 	"require" : {
 		"php" : ">=5.6",
